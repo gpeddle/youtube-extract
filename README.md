@@ -1,7 +1,7 @@
 # README.md
 
 ## Overview
-Download a YouTube video and analyze for moving units 
+Download a YouTube video and extract frames for analysis.
 
 ## Installation
 
